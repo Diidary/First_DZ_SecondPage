@@ -189,12 +189,12 @@
 
 
 
-.Gender {
+.Study {
     width: 366px;
     height: 20px; 
 }
  
-.Gender_wrapper {
+.Study_wrapper {
     width: 366px;
     height: 20px;
     display: flex;
@@ -281,14 +281,7 @@
 }
 
 
-
-.telegram {
-    width: 366px;
-    height: 56px;
-    font-size: 14px;
-}
-
-.telegram_v {
+.grey_box {
     flex-direction: column;
     display: flex;
     width: 342px;
@@ -483,13 +476,13 @@
 }
 
 
-.Know_nothing_flex {
+.Know_ {
     align-items: center;
     display: flex;
     justify-content: space-between;
 }
 
-.Know_nothing {
+.Know {
     border-radius: 16px;
     box-shadow: 0 1.1335145235px 4.293615818px 0 rgba(133,94,152,.03), 0 2.8667433262px 10.8588762283px 0 rgba(133,94,152,.04), 0 5.847887516px 22.1510887146px 0 rgba(133,94,152,.05), 0 5.847887516px 22.1510887146px 0 rgba(133,94,152,.05);
     margin-bottom: 24px;
